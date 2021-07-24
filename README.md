@@ -7,4 +7,7 @@ Steps:
 2. install package using the link: https://www.npmjs.com/package/react-beautiful-dnd
 3. User the DND libraries and hooks
 
+![alt text](https://github.com/[ashikrai]/[DND-React-Beautiful-DND]/blob/[main]/DND.gif?raw=true)
+
+
 
