@@ -7,9 +7,9 @@ React-Beautiful-DND package for adding DRAG AND DROP (DND) components in you Rea
 Walk through:
 1. *Pull the repository using git clone or github desktop app*
 2. *cd inside the repo*
-3. *Install all the required packages using command **npm install** *
+3. *Install all the required packages using command **npm install***
 4. *If React-Beautiful-Dnd is not installed even after running the command **npm install** please install the library manually.
-    *Maunual Installing command :  **npm i --save react-beautiful-dnd** *
+    *Maunual Installing command :  **npm i --save react-beautiful-dnd***
 5. *After libraries are install start the server by running the command: **npm start***
 
 *The react app will be rendered automatically in localhost:3000*
